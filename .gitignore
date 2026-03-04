@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Production build
+build/
+
+# Environment variables - NEVER commit this
+.env
+
+
+# Misc
+.DS_Store
